@@ -15,6 +15,7 @@ namespace GitL3
             double result = 8 * Math.Sin(2 * x) - Math.Cos(2 * x);
             Console.WriteLine("Результат функции 8sin(2x) - cos(2x) при x = " + x + " равен " + result);
 
+
         }
     }
 }
